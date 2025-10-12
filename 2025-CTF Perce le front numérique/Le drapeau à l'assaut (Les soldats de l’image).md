@@ -1,4 +1,5 @@
 > 25
+> 
 > le_drapeau_a_l_assaut.png
 > 
 > Le 20 novembre 1915, le journal L'Illustration a publié cette Une. L'action, immortalisée par un photographe lors de la seconde bataille de Champagne, est devenue une image symbolique de la Première Guerre mondiale.
