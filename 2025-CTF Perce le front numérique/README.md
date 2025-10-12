@@ -4,4 +4,6 @@ Le CTF du Gouverneur militaire de Paris (dont le thème de l’édition 2025 est
 
 Le CTF Perce le front numérique a eu lieu du 25 septembre au 10 octobre 2025.
 
+https://percelefrontnumerique.fr/organisateur-partenaires
+
 <img width="523" height="412" alt="image" src="https://github.com/user-attachments/assets/96f24b19-16b4-40f4-be3f-ff541ab9e576" />
