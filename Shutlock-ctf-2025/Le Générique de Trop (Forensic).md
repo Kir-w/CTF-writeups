@@ -7,13 +7,15 @@
 Dans le dossier, le fichier SousTitres.xml semble intéressant à analyser.
 On repère ce sous-titre au timing suspect :
 
-<Subtitle>
+"<Subtitle>
 <Start>00:00:48,500</Start>
+  
 <End>00:00:48,500</End>
+
 <Text>
 Dans Ce Pays, Hélas, malgré le fort potentiel qu'il A, C'est une période sombre : il subit un Krack Économique Dramatique.
 </Text>
-</Subtitle>
+</Subtitle>"
 
 En extrayant les majuscules du texte :
 <details>
