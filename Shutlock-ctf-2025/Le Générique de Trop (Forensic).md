@@ -1,3 +1,5 @@
+> 50
+> 
 > Nous venons d’obtenir le DCP que Line Huks a confié pour les projections. Vous devrez décoder ce format et explorer son contenu pour découvrir ce qu'il dissimule. Avant de commencer, renseignez-vous sur le format DCP et ses particularités. Chaque détail pourrait être une clé pour résoudre cette énigme. Voyons ce qu’il cache.
 >
 > Compromis.zip
