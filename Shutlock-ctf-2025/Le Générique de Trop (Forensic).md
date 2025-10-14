@@ -6,6 +6,7 @@
 
 Dans le dossier, le fichier SousTitres.xml semble intéressant à analyser.
 On repère ce sous-titre au timing suspect :
+
 <Subtitle>
 <Start>00:00:48,500</Start>
 <End>00:00:48,500</End>
