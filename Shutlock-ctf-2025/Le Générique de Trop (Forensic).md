@@ -21,6 +21,6 @@ En extrayant les majuscules du texte :
 <details>
 <summary>Flag</summary>
 
-D C P H A C K É D
+`D C P H A C K É D`
 
 </details>
