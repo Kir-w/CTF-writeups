@@ -1,6 +1,6 @@
 Participation in the Women4Cyber CyberDrill (Operation Ironshield), powered by CYBER RANGES, within the Team W4C002, Sept. 2025.
 
-Results : Third palce, over 60 teams and +500 participants.
+Results : Third place (Bronze), over 60 teams and +500 participants.
 
 A CyberDrill simulates real-world cyber incidents in a structured, immersive environment. This training experience was about collaborative decision-making, strategic thinking, and applying technical skills under pressure.
 
