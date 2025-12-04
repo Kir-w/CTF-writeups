@@ -1,10 +1,8 @@
-Drôle d’oiseau
-
-D'après nos informations, un criminel que nous cherchons depuis plusieurs mois se rendrait au Festival de Cannes afin d'assister à la projection de films… et de vendre des informations sensibles. Nous avons réussi à intercepter deux communications qui semblent intéressantes, un appel et un message.
+> D'après nos informations, un criminel que nous cherchons depuis plusieurs mois se rendrait au Festival de Cannes afin d'assister à la projection de films… et de vendre des informations sensibles. Nous avons réussi à intercepter deux communications qui semblent intéressantes, un appel et un message.
 Vous devez identifier le pays dans lequel il se cache actuellement, localiser où la vente va avoir lieu, et ce qui va être échangé.
 Format du flag : SHLK{Pays_Lieu_Objet} Exemple : SHLK{Etats-Unis_Café-La-Perle_Code}
-
-Avec un audio et un .txt.
+> 
+> Avec un audio et un .txt.
 
 Audio avec BirdNET : Langrayen brun ? ou similaire
 
