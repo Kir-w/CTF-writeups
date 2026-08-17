@@ -13,3 +13,5 @@ The scenario served as a challenge on how to review various log sources of diffe
 Tools : ELK, Wazuh, Arkime, Velociraptor.
 
 https://cyberranges.com/women4cyber-w4c-cyberdrill/
+
+Screenshots are from Bailey L. (thanks!)
